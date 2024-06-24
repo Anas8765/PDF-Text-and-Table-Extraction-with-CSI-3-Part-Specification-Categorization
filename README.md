@@ -21,12 +21,12 @@ The categorized data is organized into a Pandas DataFrame for easy viewing and f
 ## Notes
 
 - Ensure the PDF file path is correctly specified.
-- Replace your_api_key_here with your actual Cohere API key.
+- Replace `your_api_key_here` with your actual Cohere API key.
 - The script assumes that the PDF contains text and tables formatted in a way that is compatible with the extraction methods used.
 
 ## Example Output
 
-- The script will print the extracted text and tables, followed by a DataFrame categorizing the requirements into submittal and product requirements.
+The script will print the extracted text and tables, followed by a DataFrame categorizing the requirements into submittal and product requirements.
 
 ## Usage
 
